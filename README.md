@@ -5,6 +5,10 @@ Predict Titanic survival using data analysis and machine learning. Identify key 
 
 Welcome to the Titanic Survival Prediction repository. This project delves into the realm of data analysis and machine learning to decipher the determinants of passenger survival outcomes from the Titanic disaster. By investigating essential factors such as age, fare, and more, this project offers valuable insights into the critical elements that influenced who survived and who didn't.
 
+# Dataset
+
+This project employs a tested Titanic dataset available in the "tested.csv" file. The dataset contains passenger information including age, fare, gender, and survival status. It serves as the foundation for the analysis and prediction tasks within this project.
+
 # Key Features
 
 Utilizes Python for data analysis and machine learning tasks.
